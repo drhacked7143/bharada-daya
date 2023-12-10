@@ -1,0 +1,95 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Resume_EN.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>Java</span> applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Spring Boot and NoSql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Project",
+      "Title": "Root Nursery (E-Commerce) | Wordpress ",
+      "Date": "July 2021 - September 2021",
+      "Description": [
+        "ROOT NURSERY is a website designed primarily for use in the plant ordering system.",
+        "This system will allow live plant related different category and different plant product. ",
+        "The live plant-delivery should be timely, convenient and comprehensive. live plant delivery web site has easy features.",
+        "This project really enhance our knowledge about real time website and the Information online plant ordering system."
+      ]
+    },
+    {
+      "Tab": "Freelancer",
+      "Title": "Independent",
+      "Date": "April 2023 - Present",
+      "Description": [
+        "Implementing continuous improvements, working on frontend.",
+        "Creating platforms with Angular, NestJS, programmed with functional, reactive, and object-oriented programming paradigms.",
+        "Automation of processes with data structures.",
+        "Design layout with SCSS, Bootstrap, Materialize, etc."
+      ]
+    },
+    {
+      "Tab": "TechRover",
+      "Title": "Angular Developer",
+      "Date": "January 2022 - Present",
+      "Description": [
+        "Responsible for the development and maintenance of Angular-based web applications. Utilized Angular, RxJS, and other related technologies to build responsive and dynamic user interfaces.",
+        "Implemented RxJS to facilitate real-time data handling and event-driven architecture. Employed observables and operators for efficient data flow and seamless communication between components.",
+        "Developed comprehensive unit tests using Angular testing frameworks like Jasmine and Karma. Automated testing processes to ensure code quality and reliability, enabling faster development cycles.",
+        "Implementation of continuous integration and daily backups.",
+        "Collaborated closely with cross-functional teams to define project requirements and ensure alignment with business goals. Actively participated in planning meetings and reported on development progress."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Root Nursery",
+      "Description": "This system will allow live plant related different category and different plant product. The live <span class='underline'> plant-delivery </span> should be timely, convenient and comprehensive. live plant –delivery website has easy features.",
+      "imgs": [
+        "assets/images/root/p1.png",
+        "assets/images/root/p2.png",
+        "assets/images/root/p3.png",
+        "assets/images/root/p4.png",
+        "assets/images/root/p5.png"
+      ],
+      "Technologies": [
+        "PHP",
+        "Wordpress",
+        "CSS"
+      ],
+      "ghLink": "",
+      "demoLink": ""
+    }
+  ],
+  "OtherProjects.Title": "More projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Pokemon",
+      "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+      "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+      "Technologies": [
+        "Angular",
+        "RxJs",
+        "API",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
